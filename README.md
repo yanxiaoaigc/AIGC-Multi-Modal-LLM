@@ -22,13 +22,17 @@
 
 ## 2.图像
 
-| Name             | Tags             | URL                               |
-| :--------------- | ---------------- | --------------------------------- |
-| Midjourney       |                  | https://www.midjourney.com/home/  |
-| Stable Diffusion | Dream Studio官网 | https://beta.dreamstudio.ai/dream |
-| Stable Diffusion | Playground AI    | https://playgroundai.com/         |
-| DALL-E2          |                  | https://labs.openai.com/          |
-| 造梦日记         |                  | https://www.printidea.art/        |
+| Name                    | Tags             | URL                                                          |
+| :---------------------- | ---------------- | ------------------------------------------------------------ |
+| Midjourney              |                  | https://www.midjourney.com/home/                             |
+| Stable Diffusion        | Dream Studio官网 | https://beta.dreamstudio.ai/dream                            |
+| Stable Diffusion        | Playground AI    | https://playgroundai.com/                                    |
+| Stable Diffusion Web UI | 本地部署Web UI   | https://blog.csdn.net/jarodyv/article/details/129387945      |
+| DALL-E2                 |                  | https://labs.openai.com/                                     |
+| nightcafe               |                  | https://nightcafe.studio/                                    |
+| craiyon                 |                  | https://www.craiyon.com/                                     |
+| 造梦日记                |                  | https://www.printidea.art/                                   |
+| 皮卡智能AI              |                  | [ https://www.picup.shop/text2image.html#/](https://www.picup.shop/text2image.html#/) |
 
 
 
@@ -66,10 +70,11 @@ AIGC下一站
 
 ## 6.图片—文本
 
-| Name      | Tags | URL  |
-| --------- | ---- | ---- |
-| VisualGPT |      |      |
-| Flamingo  |      |      |
+| Name       | Tags                  | URL                              |
+| ---------- | --------------------- | -------------------------------- |
+| VisualGPT  |                       |                                  |
+| Flamingo   |                       |                                  |
+| Midjourney | 用/describe反推prompt | https://www.midjourney.com/home/ |
 
 
 
@@ -159,4 +164,20 @@ AIGC下一站
 
 
 
+
+## 联系我们
+
+微信：Yanxiao33KK
+
+​			添加微信，领取人工智能全领域基础知识体系（飞书）
+
+微信群：在AICG的时代下，一起学习共同进步，成为时代的佼佼者
+
+抖音：
+
+快手：
+
+B站：
+
+微博：
 
