@@ -8,15 +8,30 @@
 
 ## 1.文本
 
-| Name             | Tags         | URL                              |
-| :--------------- | :----------- | :------------------------------- |
-| ChatGPT          | OpenAI官网   | https://openai.com/blog/chatgpt/ |
-| ChatGPT国内镜像1 |              | https://chat.forchange.cn/       |
-|                  |              |                                  |
-| Tome             | 写故事       | https://beta.tome.app/           |
-| Jenni AI         | 写论文       | https://jenni.ai/                |
-| Jasper AI        | 写文章       | https://www.jasper.ai/           |
-| Friday           | 智能写作助手 | https://www.heyfriday.cn/home    |
+国外
+
+| Name      | Tags         | URL                              |
+| :-------- | :----------- | :------------------------------- |
+| ChatGPT   | OpenAI官网   | https://openai.com/blog/chatgpt/ |
+|           |              |                                  |
+|           | Meta         |                                  |
+|           | Google       |                                  |
+| Tome      | 写故事       | https://beta.tome.app/           |
+| Jenni AI  | 写论文       | https://jenni.ai/                |
+| Jasper AI | 写文章       | https://www.jasper.ai/           |
+| Friday    | 智能写作助手 | https://www.heyfriday.cn/home    |
+
+
+
+国内
+
+| Name             | Tags                                                         | URL                        |
+| ---------------- | ------------------------------------------------------------ | -------------------------- |
+| 文心一言         | 百度                                                         |                            |
+| 通义千问         | 阿里                                                         | https://tongyi.aliyun.com/ |
+| 商量SenseChat    | 商汤：秒画：AI内容创作。如影：AI数字人视频生成。琼宇、格物：3D内容生成 |                            |
+| ChatGPT国内镜像1 |                                                              | https://chat.forchange.cn/ |
+|                  |                                                              |                            |
 
 
 
@@ -56,6 +71,7 @@ AIGC下一站
 | Make-A-Video | Meta     |                           |
 | VidPress     | 百度     |                           |
 | Synthesia    | 真人视频 | https://www.synthesia.io/ |
+| Gen-2        |          |                           |
 
 
 
@@ -82,7 +98,7 @@ AIGC下一站
 
 | Name      | Tags      | URL                      |
 | --------- | --------- | ------------------------ |
-| Copilot   |           | 暂未上线                 |
+| Copilot   | Microsoft | 暂未上线                 |
 | ChatExcel | 处理Excel | https://chatexcel.com/   |
 | ChatPDF   |           | https://www.chatpdf.com/ |
 
@@ -102,13 +118,20 @@ AIGC下一站
 
 ## 9.编程
 
+| Name    | Tags   | URL  |
+| ------- | ------ | ---- |
+| Copilot | GitHub |      |
+|         |        |      |
+|         |        |      |
+
 
 
 ## 10.聊天
 
-| Name      | Tags        | URL                    |
-| --------- | ----------- | ---------------------- |
-| Chat D-ID | ChatGPT女友 | https://chat.d-id.com/ |
+| Name         | Tags        | URL                        |
+| ------------ | ----------- | -------------------------- |
+| Chat D-ID    | ChatGPT女友 | https://chat.d-id.com/     |
+| character.ai | 角色聊天    | https://beta.character.ai/ |
 
 
 
@@ -160,6 +183,8 @@ AIGC下一站
 | ------------ | ---------------------- | --------------------- |
 | Repurpose IO | 自动发布信息到社交媒体 | https://repurpose.io/ |
 | Do Not Pay   | 解决法律               | https://donotpay.com/ |
+| DriveGPT     | 毫末智行               |                       |
+|              |                        |                       |
 
 
 
