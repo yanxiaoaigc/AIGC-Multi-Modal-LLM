@@ -10,16 +10,19 @@
 
 国外
 
-| Name      | Tags         | URL                              |
-| :-------- | :----------- | :------------------------------- |
-| ChatGPT   | OpenAI官网   | https://openai.com/blog/chatgpt/ |
-|           |              |                                  |
-|           | Meta         |                                  |
-|           | Google       |                                  |
-| Tome      | 写故事       | https://beta.tome.app/           |
-| Jenni AI  | 写论文       | https://jenni.ai/                |
-| Jasper AI | 写文章       | https://www.jasper.ai/           |
-| Friday    | 智能写作助手 | https://www.heyfriday.cn/home    |
+| Name          | Tags                                                | URL                                                          |
+| :------------ | :-------------------------------------------------- | :----------------------------------------------------------- |
+| ChatGPT       | OpenAI官网                                          | https://openai.com/blog/chatgpt/                             |
+| LLaMA         | Meta                                                |                                                              |
+| Bard          | Google                                              |                                                              |
+| Tome          | 写故事                                              | https://beta.tome.app/                                       |
+| Jenni AI      | 写论文                                              | https://jenni.ai/                                            |
+| Jasper AI     | 写文章                                              | https://www.jasper.ai/                                       |
+| Friday        | 智能写作助手                                        | https://www.heyfriday.cn/home                                |
+| Claude        | ChatGPT最强平替：免费、支持中文、无需注册、不用翻墙 | https://www.anthropic.com/claude-in-slack                    |
+| Claude        | Claude-win版桌面                                    | https://slack.com/intl/zh-cn/downloads/windows               |
+| Claude        | Claude-安卓版/IOS版                                 | [www.slack.com/intl/zh-CN/downloads?src=qr_code&event_id=300128&user_id=U053DBRMD29&team_id=T053UUFPA7K](http://www.slack.com/intl/zh-CN/downloads?src=qr_code&event_id=300128&user_id=U053DBRMD29&team_id=T053UUFPA7K) |
+| OpenAssistant | ChatGPT全球最大开源平替                             | https://open-assistant.io/chat                               |
 
 
 
@@ -30,8 +33,10 @@
 | 文心一言         | 百度                                                         |                            |
 | 通义千问         | 阿里                                                         | https://tongyi.aliyun.com/ |
 | 商量SenseChat    | 商汤：秒画：AI内容创作。如影：AI数字人视频生成。琼宇、格物：3D内容生成 |                            |
+| 知海图AI         | 知乎                                                         |                            |
+| 奇智孔明AInnoGC  | 创新奇智                                                     |                            |
 | ChatGPT国内镜像1 |                                                              | https://chat.forchange.cn/ |
-|                  |                                                              |                            |
+| MagickPen        |                                                              | https://magickpen.com/zh/  |
 
 
 
@@ -110,9 +115,11 @@ AIGC下一站
 
 ## 8.设计
 
-| Name    | Tags         | URL                     |
-| ------- | ------------ | ----------------------- |
-| RoomGPT | 房屋室内设计 | https://www.roomgpt.io/ |
+| Name              | Tags                                                         | URL                                   |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------- |
+| RoomGPT           | 房屋室内设计                                                 | https://www.roomgpt.io/               |
+| ZMO.AI            | 设计                                                         | https://www.zmo.ai/background-ai/     |
+| Marketing Copilot | 用户只需上传一张产品图，便可从拍摄，到海报制作，到后期投放优化全部嵌入 AI workflow 的自动化流程，利用 AI 强大的创造力和分析能力实现运营秒秒钟优化 | https://www.zmo.ai/marketing-copilot/ |
 
 
 
@@ -163,9 +170,18 @@ AIGC下一站
 
 
 
+## 15.医学
+
+| Name                                         | Tags | URL                                                          |
+| -------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Visual Med-Alpaca                            | 医学 | https://github.com/cambridgeltl/visual-med-alpaca/tree/main/code |
+| Glass AI（提供诊断和临床建议的生成式AI应用） |      |                                                              |
+| VQA Medical Model（医学影像语言模型）        |      |                                                              |
+| MOSS                                         |      |                                                              |
 
 
-## 15.插件
+
+## 16.插件
 
 | Name               | Tags               | URL  |
 | ------------------ | ------------------ | ---- |
@@ -177,7 +193,17 @@ AIGC下一站
 
 
 
-## 16.其他
+## 17.GPT+
+
+| Name             | Tags                     | URL                                              |
+| ---------------- | ------------------------ | ------------------------------------------------ |
+| Auto-GPT         | 主实现用户设定的任何目标 | https://github.com/torantulino/auto-gpt          |
+| HuggingGPT       |                          | https://github.com/microsoft/JARVIS              |
+| chatgpt_academic |                          | https://github.com/binary-husky/chatgpt_academic |
+
+
+
+## 18.其他
 
 | Name         | Tags                   | URL                   |
 | ------------ | ---------------------- | --------------------- |
@@ -198,11 +224,11 @@ AIGC下一站
 
 微信群：在AICG的时代下，一起学习共同进步，成为时代的佼佼者
 
-抖音：
+抖音：AIGC颜萧
 
-快手：
+快手：AIGC颜萧
 
-B站：
+B站：AIGC颜萧
 
-微博：
+微博：AIGC颜萧
 
